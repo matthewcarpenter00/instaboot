@@ -1,0 +1,19 @@
+.navbar-brand {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 26px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: grey;
+    color: white;
+}
+.nav-link, .nav-link:hover {
+    color: grey;
+}
+
+.card {
+    width: 600px;
+}
+.fa-camera {
+    padding: 10pxgit remote add upstream;
+}
